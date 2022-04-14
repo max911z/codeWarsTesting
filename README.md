@@ -20,5 +20,7 @@
   <li>testtestWhenDeleteLastEntityResult</li>
 </ul>
 
-<h3 align="left">Integration tests in development</h3>
-      
+<h3 align="left">E2e tests are located in the file "CodeWarsTestingUITests/CodeWarsTestingUITests":</h3>
+    <ul>
+  <li>testButtonGo</li>
+</ul>
